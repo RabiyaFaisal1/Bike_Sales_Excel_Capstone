@@ -59,17 +59,6 @@ Raw Data → Data Cleaning → Duplicate Removal → Categorical Standardization
 - **Cleaning took longer than building** — clean, consistent inputs are the real foundation of a trustworthy dashboard, not the charts themselves.
 - **Slicers only control PivotTables that share the same pivot cache.** Building PivotTables independently (rather than copying from one shared source) can silently break cross-filtering — worth setting up correctly from the start on future projects.
 
-## 📁 Repository Structure
-
-```
-Bike-Sales-Excel-Dashboard/
-│
-├── README.md
-├── Bike_Sales_Dashboard.xlsx
-└── images/
-    └── bike-sales-dashboard.png
-```
-
 ## 👩‍💻 Project Type
 
 Data Analytics | Microsoft Excel | Dashboard Project — built as part of an ongoing data analytics learning journey.
